@@ -7,6 +7,7 @@
  */
 
 'use strict';
+kkkkk
 sssss
 $(function() {
   // 当文档加载完成才会执行
